@@ -1,7 +1,14 @@
 jeuweb3d
 ========
-Série de tutoriels sur la création d'un jeu par navigateur en JavaScript, avec un rendu 3D avec WebGL
+Série de tutoriels sur la création d'un jeu par navigateur en JavaScript, avec un rendu 3D en WebGL.
+
+Playlist : http://www.youtube.com/playlist?list=PLYNfpGGlAaYAnAioy5F-QQMuA9OQ3z6q4
+
+15/12/2013 - Episode 2 : premiers objets
+-
+Mise en place d'un objet générique dans l'espace global, légère factorisation du code, génération des premiers objets de la première scène.
 
 14/12/2013 - Episode 1 : préparation
-------------------------------------
+-
 Mise en place de l'environnement et création d'une scène basique pour tester le moteur.
+

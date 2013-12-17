@@ -4,6 +4,10 @@ Série de tutoriels sur la création d'un jeu par navigateur en JavaScript, avec
 
 Playlist : http://www.youtube.com/playlist?list=PLYNfpGGlAaYAnAioy5F-QQMuA9OQ3z6q4
 
+17/12/2013 - Episode 3 : Une scène dans Blender
+-
+Création d'une scène dans Blender et export dans Three.js (avec gestion des quelques bugs de l'exporteur)
+
 15/12/2013 - Episode 2 : premiers objets
 -
 Mise en place d'un objet générique dans l'espace global, légère factorisation du code, génération des premiers objets de la première scène.

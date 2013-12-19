@@ -4,6 +4,10 @@ Série de tutoriels sur la création d'un jeu par navigateur en JavaScript, avec
 
 Playlist : http://www.youtube.com/playlist?list=PLYNfpGGlAaYAnAioy5F-QQMuA9OQ3z6q4
 
+19/12/2013 - Episode 4 : Entités et boucle
+-
+Création et génération d'entités en fonction de groupes depuis Blender, mise en place de la boucle du jeu et première animation de notre player
+
 17/12/2013 - Episode 3 : Une scène dans Blender
 -
 Création d'une scène dans Blender et export dans Three.js (avec gestion des quelques bugs de l'exporteur)

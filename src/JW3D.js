@@ -12,6 +12,7 @@ var JW3D = {
     entities:{
         list:{},
     },
+    behaviors:{},
 };
 
 /**
@@ -52,8 +53,6 @@ JW3D["load"] = function(){
         
         that._generateLights.call(that);
         
-        console.log(result);
-        
         for(mesh in result.objects){
             for(group in result.groups){
                 if(inArray(mesh, result.groups[group])){
@@ -62,13 +61,6 @@ JW3D["load"] = function(){
                 }
             }
         }
-        
-        console.log(JW3D.entities.list);
-        
-        // test
-        setInterval(function(){
-            JW3D.entities.list.player.x += 0.001;
-        },10);
         
         that.update();
     });
